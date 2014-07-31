@@ -12,8 +12,6 @@
   },
   "bugs": "https://github.com/audiocogs/aurora.js/issues",
   "dependencies": {
-    "av": "^0.4.2",
-    "mp3": "^0.1.0",
     "speaker": "~0.0.10"
   },
   "devDependencies": {

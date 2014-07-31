@@ -9,3 +9,5 @@ require './demuxers/au'
 
 require './decoders/lpcm'
 require './decoders/xlaw'
+
+require 'mp3'

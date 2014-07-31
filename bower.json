@@ -1,0 +1,17 @@
+{
+  "name": "aurora.js",
+  "version": "0.4.2",
+  "homepage": "https://github.com/audiocogs/aurora.js",
+  "authors": [
+    "https://audiocogs.org"
+  ],
+  "description": "JavaScript audio decoding framework",
+  "main": "build/aurora.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
